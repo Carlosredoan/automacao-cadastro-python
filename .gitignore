@@ -1,0 +1,14 @@
+# Ambiente Virtual
+.venv/
+__pycache__/
+
+# Segurança (Cofre de senhas)
+.env
+
+# Arquivos de Log (Auditáveis)
+log_execucao.txt
+*.log
+
+# Arquivos do Arch/Sistema/IDE
+.DS_Store
+.vscode/
