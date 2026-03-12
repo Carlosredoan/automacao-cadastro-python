@@ -1,3 +1,5 @@
+![Banner RPA](banner.png)
+
 # 🤖 RPA de Cadastro Massivo (Python + PyAutoGUI)
 
 Este projeto é uma automação de Processos Robóticos (RPA) desenvolvida para o preenchimento automatizado de formulários ERP via Web, utilizando dados de uma base CSV.
